@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://gt4b865fb8e7"
+path="res://.godot/imported/template_checkpoint.dialogue-2fb9210eeb92846af83478219208eb81.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Destiny/1_destiny_stealth/destiny_stealth_components/template_checkpoint.dialogue"
+dest_files=["res://.godot/imported/template_checkpoint.dialogue-2fb9210eeb92846af83478219208eb81.tres"]
+
+[params]
+
+defaults=true

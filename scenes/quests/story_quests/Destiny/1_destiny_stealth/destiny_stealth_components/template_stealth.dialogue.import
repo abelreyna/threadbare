@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://c34uisqyfqew6"
+path="res://.godot/imported/template_stealth.dialogue-23a4cc2a0422248fee216aaa54cf3839.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Destiny/1_destiny_stealth/destiny_stealth_components/template_stealth.dialogue"
+dest_files=["res://.godot/imported/template_stealth.dialogue-23a4cc2a0422248fee216aaa54cf3839.tres"]
+
+[params]
+
+defaults=true

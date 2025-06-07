@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bc4he2jruspqd"
+path="res://.godot/imported/destiny_sequence_puzzle.dialogue-b430d3c42e677c32aa17be550b16fb2a.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Destiny/3_destiny_sequence_puzzle/destiny_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/destiny_sequence_puzzle.dialogue-b430d3c42e677c32aa17be550b16fb2a.tres"]
+
+[params]
+
+defaults=true

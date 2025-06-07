@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dlq3po6rn4dcl"
+path="res://.godot/imported/destiny_combat.dialogue-9d435d8da14fab4fb31dbbc4fd94d364.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Destiny/2_destiny_combat/destiny_combat_components/destiny_combat.dialogue"
+dest_files=["res://.godot/imported/destiny_combat.dialogue-9d435d8da14fab4fb31dbbc4fd94d364.tres"]
+
+[params]
+
+defaults=true
