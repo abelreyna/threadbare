@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://8dn0563gtxfr"
-path="res://.godot/imported/template_Replace image.png-20ff749b7d4b002279aed6022625dc71.ctex"
+uid="uid://dr3t5ft2g7dgg"
+path="res://.godot/imported/Destiny_target.png-db574669378fe1c504aceab2bdf4c684.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/Destiny/0_destiny_intro/aaaaaaaaa_intro_components/template_Replace image.png"
-dest_files=["res://.godot/imported/template_Replace image.png-20ff749b7d4b002279aed6022625dc71.ctex"]
+source_file="res://scenes/quests/story_quests/Destiny/2_destiny_combat/Destiny_combat_components/Destiny_target.png"
+dest_files=["res://.godot/imported/Destiny_target.png-db574669378fe1c504aceab2bdf4c684.ctex"]
 
 [params]
 
