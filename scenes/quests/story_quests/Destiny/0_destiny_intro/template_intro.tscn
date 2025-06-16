@@ -150,5 +150,8 @@ animation_player = NodePath("../OnTheGround/AnimationPlayer")
 next_scene = "uid://coi4lvxir542y"
 metadata/_custom_type_script = "uid://x1mxt6bmei2o"
 
+[node name="Rock2" parent="." instance=ExtResource("6_b0086")]
+position = Vector2(250, 806)
+
 [node name="Rock" parent="." instance=ExtResource("6_b0086")]
-position = Vector2(125, 403)
+position = Vector2(125, 305)
