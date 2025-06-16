@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cd7l4ploqvmhq"
-path="res://.godot/imported/template_player_defeated.png-d03d8123197d4b8de482fd52b7702da0.ctex"
+uid="uid://8dn0563gtxfr"
+path="res://.godot/imported/Destiny_Replace image.png-ec508b4a4c3da0c436680b3149c3e89a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/Destiny/template_player_components/template_player_defeated.png"
-dest_files=["res://.godot/imported/template_player_defeated.png-d03d8123197d4b8de482fd52b7702da0.ctex"]
+source_file="res://scenes/quests/story_quests/Destiny/0_destiny_intro/Destiny_intro_components/Destiny_Replace image.png"
+dest_files=["res://.godot/imported/Destiny_Replace image.png-ec508b4a4c3da0c436680b3149c3e89a.ctex"]
 
 [params]
 

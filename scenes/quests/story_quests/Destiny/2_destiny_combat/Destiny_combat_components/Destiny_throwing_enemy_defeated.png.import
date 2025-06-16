@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bfbwg7fm1ppfw"
-path="res://.godot/imported/template_player_attack_02.png-3a08ced165606f2d5457c4a5a149879c.ctex"
+uid="uid://c3hows81e1qna"
+path="res://.godot/imported/Destiny_throwing_enemy_defeated.png-8d267db2faf8d07389e17a5004418692.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/Destiny/template_player_components/template_player_attack_02.png"
-dest_files=["res://.godot/imported/template_player_attack_02.png-3a08ced165606f2d5457c4a5a149879c.ctex"]
+source_file="res://scenes/quests/story_quests/Destiny/2_destiny_combat/Destiny_combat_components/Destiny_throwing_enemy_defeated.png"
+dest_files=["res://.godot/imported/Destiny_throwing_enemy_defeated.png-8d267db2faf8d07389e17a5004418692.ctex"]
 
 [params]
 
