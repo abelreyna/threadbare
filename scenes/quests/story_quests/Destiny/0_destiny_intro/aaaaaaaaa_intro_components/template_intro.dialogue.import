@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://elgfy2wpx5ud"
+path="res://.godot/imported/template_intro.dialogue-0fd7add18e423de93c4d1a84fe12f022.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Destiny/0_destiny_intro/aaaaaaaaa_intro_components/template_intro.dialogue"
+dest_files=["res://.godot/imported/template_intro.dialogue-0fd7add18e423de93c4d1a84fe12f022.tres"]
+
+[params]
+
+defaults=true
